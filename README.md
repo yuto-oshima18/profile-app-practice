@@ -1,8 +1,7 @@
 # profile-app-practice
 
 ## 概要
-COACHTECH 教材 Tutorial 9-1「Laravel基礎ハンズオン」で作成した成果物です。
-（**ここに、何を作ったかを1〜2行で書きましょう**）
+COACHTECH Laravel基礎 「9-1-8: Laravel基礎ハンズオン」にて作成
 
 ## 使用技術
 - PHP 8.5.8
